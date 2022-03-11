@@ -100,7 +100,6 @@ function App() {
 
   function handleSubmit(newPokemonName) {
     setPokemonName(newPokemonName);
-    // ErrorBoundary.getDerivedStateFromError(null);
   }
 
   return (
